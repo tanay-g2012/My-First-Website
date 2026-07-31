@@ -17,10 +17,10 @@ main{
     width: 70%;
     height:100vh;
     text-align: center;
-    font-size: calc(2px+2vw)
+    font-size: calc(2px + 2vw);
 }
-main*{
-    margin: 2% 0
+main *{
+    margin: 2% 0;
 }
 nav ul{
     padding-left: 0;
@@ -35,7 +35,7 @@ nav li{
 }
 nav a{
     text-decoration: none;
-    font-size: calc(2px+1.3vw);
+    font-size: calc(2px + 1.3vw);
 }
 #buttons{
     display: flex;
